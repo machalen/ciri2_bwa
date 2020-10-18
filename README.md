@@ -5,3 +5,5 @@ Dokerfile with all the required programs to run CIRI2 pipeline in RNAseq to dete
 - Package bwa-mem for alignment
 - Package CIRI2 CIRI_v2.0.6
 - Package Bedtools v2.29.2
+
+In order to execute CIRI type: /usr/local/CIRI_v2.0.6/CIRI2.pl
