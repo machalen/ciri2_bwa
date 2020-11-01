@@ -8,7 +8,7 @@
 FROM ubuntu:latest
 
 #File Author/Maintainer
-MAINTAINER Magdalena Arnal, magdalena.arnalsegura@iit.it
+MAINTAINER Machalen, magdalena.arnalsegura@iit.it
 
 #Instructions to build and run interactive
 #docker build --no-cache -t ciri2_bwa:v1 .
